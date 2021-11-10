@@ -1,0 +1,20 @@
+@import "node_modules/bootstrap/scss/bootstrap";
+@import "./Utils/variables";
+@import "./Utils/mixin";
+@import "./base.scss";
+
+
+@font-face {
+    font-family: Montserrat-Regular;
+    src: url(../fonts/Montserrat/Montserrat-Regular.ttf);
+}
+
+@font-face {
+    font-family: Montserrat-Bold;
+    src: url(../fonts/Montserrat/Montserrat-Bold.ttf);
+}
+
+@font-face {
+    font-family: Montserrat-Light;
+    src: url(../fonts/Montserrat/Montserrat-Light.ttf);
+}
